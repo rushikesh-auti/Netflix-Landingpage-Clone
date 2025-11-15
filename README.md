@@ -20,6 +20,8 @@ The project replicates the UI of Netflix’s official homepage and focuses on la
 
 🔹 Fully responsive for mobile, tablet, and desktop
 
+
+
 #Technologies Used
 
 HTML5 – Structure of the page
@@ -35,6 +37,8 @@ Media Queries – Responsive design
 │── style.css
 └── images/
 
+
+
 #How to Run the Project
 
 Download or clone the repository:
@@ -45,6 +49,8 @@ git clone https://github.com/your-username/netflix-clone.git
 Open the project folder
 
 Run index.html in any web browser
+
+
 
 
 Author - Rushikesh Auti
