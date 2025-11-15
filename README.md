@@ -4,7 +4,7 @@ Netflix Clone – Landing Page (HTML & CSS)
 A simple and responsive Netflix Clone Landing Page built using pure HTML and CSS.
 The project replicates the UI of Netflix’s official homepage and focuses on layout design, responsive styling, and clean structure.
 
-  #Features
+  *Features*
 
 🔹 Responsive navigation bar
 
@@ -22,7 +22,7 @@ The project replicates the UI of Netflix’s official homepage and focuses on la
 
 
 
-#Technologies Used
+*Technologies Used*
 
 HTML5 – Structure of the page
 
@@ -39,7 +39,7 @@ Media Queries – Responsive design
 
 
 
-#How to Run the Project
+*How to Run the Project*
 
 Download or clone the repository:
 
@@ -53,4 +53,4 @@ Run index.html in any web browser
 
 
 
-Author - Rushikesh Auti
+*Author - Rushikesh Auti*
