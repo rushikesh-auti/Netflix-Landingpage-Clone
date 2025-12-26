@@ -24,6 +24,10 @@ and modern styling.
 │── style.css
 └── images/
 
+## Preview
+<img width="1880" height="907" alt="Screenshot 2025-12-26 151714" src="https://github.com/user-attachments/assets/7f2239e0-e7cf-4a34-a6cc-10945e10fba8" />
+
+
 ## Author
 Rushikesh Auti
 
