@@ -13,10 +13,12 @@ and modern styling.
 - Clean and minimal footer
 - Fully responsive for mobile, tablet, and desktop
 
+```
 ## Technologies Used
 - HTML5
 - CSS3 
 - Media Queries for responsive design
+```
 
 ## Project Structure
 /
